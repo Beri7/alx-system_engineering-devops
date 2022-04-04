@@ -1,1 +1,2 @@
-Readme file for script that prints “Hello, World”, followed by a new line to the standard output.
+Description of a script that prints Hello world followed by a new line to the standard output.
+
